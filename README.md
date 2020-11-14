@@ -8,7 +8,7 @@
 
 - Criação do famoso jogo do dinossauro sem internet da browser Google Chrome usando HTML, CSS e a linguagem de programação Javascript. 
 
-- Projeto proposto pela Digital One Innovation com o especialista Celso Henrique.
+- Projeto proposto pela Digital Innovation One com o especialista Celso Henrique.
 
 <img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" alt="Cursos grátis de tecnologia e inovação | Digital Innovation One" style="zoom:25%;" />
 
